@@ -5,9 +5,7 @@ import os
 import time
 from dotenv import load_dotenv
 import google.generativeai as genai
-
-import numpy as np
-print("✅ numpy is available:", np.__version__)
+import numpy
 
 
 # Gemini APIキーを設定

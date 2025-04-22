@@ -1,5 +1,3 @@
-streamlit
-whisper
-tempfile
-load_dotenv
-google.generativeai
+streamlit==1.44.1
+openai-whisper==20240930
+google-generativeai==0.8.4

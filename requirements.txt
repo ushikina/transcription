@@ -1,0 +1,5 @@
+streamlit
+whisper
+tempfile
+load_dotenv
+google.generativeai

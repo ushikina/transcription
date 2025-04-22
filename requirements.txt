@@ -4,3 +4,4 @@ google-generativeai==0.8.4
 python-dotenv==1.1.0
 ffmpeg-python
 torch==2.1.2
+numpy
